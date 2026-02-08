@@ -1,7 +1,7 @@
 
 
 
-```md
+
 # 📦 Prominno Labs – Laravel API Project
 
 This repository contains a **role-based REST API** built using **Laravel**, designed to manage **Admin & Seller workflows**, including **product management with multiple brands**, **image uploads**, **PDF generation**, and **secure authentication**.

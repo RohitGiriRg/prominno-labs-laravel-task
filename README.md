@@ -1,5 +1,4 @@
-Here you go — clean, **interview-ready `README.md`** formatting.
-You can **copy-paste this directly** into a `README.md` file 👌
+
 
 ---
 
